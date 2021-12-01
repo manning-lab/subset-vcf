@@ -32,8 +32,8 @@ workflow subset_vcf_wf {
 	meta {
 		description: "This workflow subsets a VCF file by genomic position and sample id."
 		tags: "genetics"
-	    author: "Tim Majarian"
-	    email: "tmajaria@broadinstitute.org"
+	    author: "Tim Majarian, Kenny Westerman"
+	    email: "kewesterman@mgh.harvard.edu"
 	}
 	# Parameter metadata
 	parameter_meta {
